@@ -17,11 +17,11 @@ struct matrix{
 }M;
 
 // the parameters of this heart
-int H = 30, W = 80; // length and width of the canvas
-double times = 10; // how large of your heart
-double A = 0, B = 0, C = 0; // the initialize angle of the rotation matrix
-double dA = 0, dB = 0.12, dC = 0.06; // the change of angle in every loop
-int delay = 100; // the time sleep of every loop
+int H = 30, W = 80;                 // length and width of the canvas
+double times = 10;                  // how large of your heart
+double A = 0, B = 0, C = 0;         // the initialize angle of the rotation matrix
+double dA = 0, dB = 0.12, dC = 0.06;// the change of angle in every loop
+int delay = 100;                    // the time sleep of every loop
 point light1 = {1, 1, 1}, light2 = {-1, -1, 1};
 
 // Newton's method to solve the root of y_axis coordinate
