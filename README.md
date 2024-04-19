@@ -1,7 +1,7 @@
 # rotate_anything
 
-你好
+This is made exclusively for the donut.py nerds!!
 
-測試
+These code allow you to rotate not only the classical donut, but also lightened renders of the heart and cube.
 
-111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Enjoy!!!
